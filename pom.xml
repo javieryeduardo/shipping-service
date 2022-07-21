@@ -8,9 +8,9 @@
 		<version>2.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>uy.edu.ort.devops</groupId>
-	<artifactId>shipping-service-example</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<groupId>build</groupId>
+   	<artifactId>shipping-service</artifactId>
+   	<version>1</version>
 	<name>shipping-service-example</name>
 	<description>Demo project for migrating Monolith to Microservices</description>
 	<properties>
